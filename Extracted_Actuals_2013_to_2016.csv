@@ -1,0 +1,9 @@
+Vote,Sector,Subprogram,Financial Year,"Approved Budget (UGX, Millions)",Released Budget (UGX),Actual Expenditure (UGX),Performance (%),Deviation (UGX),Execution Status
+14,Health,Health Sector Aggregate,13/14,1161500,947155000000,928734000000,79.9598794662075,232766000000,Fully Spent
+10,Agriculture,Agriculture Sector Aggregate,13/14,382790,345140000000,342760000000,89.54256903262886,40030000000,Fully Spent
+14,Health,Health Sector Aggregate,14/15,1233700,1041300000000,1067420000000,86.52184485693442,166280000000,Fully Spent
+13,Education,Education Sector Aggregate,14/15,879190,745570000000,713030000000,81.10078595070462,166160000000,Satisfactorily Spent
+10,Agriculture,Agriculture Sector Aggregate,14/15,506790,525850000000,497590000000,98.18465242013458,9200000000,Fully Spent
+14,Health,Health Sector Aggregate,15/16,1300370,1380190000000,1265400000000,97.3107653975407,34970000000,Fully Spent
+13,Education,Education Sector Aggregate,15/16,992920,904170000000,899620000000,90.60347258590824,93300000000,Satisfactorily Spent
+10,Agriculture,Agriculture Sector Aggregate,15/16,510490,451350000000,439980000000,86.18778036788184,70510000000,Underutilized
